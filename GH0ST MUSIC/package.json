@@ -1,0 +1,30 @@
+{
+  "name": "deneme",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "FIRAT#9999",
+  "license": "ISC",
+  "dependencies": {
+    "cat-names": "^3.0.0",
+    "cleverbot-node": "^0.3.11",
+    "colors": "^1.4.0",
+    "cool-images": "^1.0.3",
+    "discord-music-player": "^6.4.1",
+    "discord.js": "^12.5.1",
+    "dog-names": "^2.0.0",
+    "erela.js": "^1.1.8",
+    "g-image-search": "^1.0.2",
+    "hastebin-gen": "^2.0.5",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "0.0.7",
+    "proton-io": "0.0.4",
+    "randomstring": "^1.1.5",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^3.0.1"
+  }
+}
